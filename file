@@ -1,0 +1,7 @@
+What is version control system..?
+
+A version control system (VCS) tracks every alteration to a file or set of files, enabling developers to journey back to earlier versions and collaborate seamlessly. Centralized version control systems (CVCS) streamline this process by housing all file versions on a single server. Developers borrow a file to tweak, then return it with updates, all neatly stored and cataloged by the server. This method shines in its simplicity, offering a straightforward path for managing changes.
+
+Yet, as teams grow and projects become more intricate, the distributed version control systems (DVCS) such as Git step into the spotlight. DVCS doesn't just centralize files; it democratizes them. Every developer holds the entire project history locally, empowering offline work and facilitating a tapestry of branching and merging strategies. This flexibility is a boon for dynamic teams aiming to weave together multiple project threads without tangling them.
+
+
